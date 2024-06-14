@@ -1,0 +1,15 @@
+C:\Users\user\DCIT318-ASSIGNMENT\bin\Debug\net8.0\DCIT318-ASSIGNMENT.exe
+C:\Users\user\DCIT318-ASSIGNMENT\bin\Debug\net8.0\DCIT318-ASSIGNMENT.deps.json
+C:\Users\user\DCIT318-ASSIGNMENT\bin\Debug\net8.0\DCIT318-ASSIGNMENT.runtimeconfig.json
+C:\Users\user\DCIT318-ASSIGNMENT\bin\Debug\net8.0\DCIT318-ASSIGNMENT.dll
+C:\Users\user\DCIT318-ASSIGNMENT\bin\Debug\net8.0\DCIT318-ASSIGNMENT.pdb
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.AssemblyInfo.cs
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.sourcelink.json
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.dll
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\refint\DCIT318-ASSIGNMENT.dll
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.pdb
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\DCIT318-ASSIGNMENT.genruntimeconfig.cache
+C:\Users\user\DCIT318-ASSIGNMENT\obj\Debug\net8.0\ref\DCIT318-ASSIGNMENT.dll
