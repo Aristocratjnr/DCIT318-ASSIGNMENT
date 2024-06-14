@@ -7,3 +7,4 @@ This repository contains a C# console application that demonstrates various aspe
 - Abstract Classes and Methods: Demonstrated with Shape, Circle, and Rectangle classes.
 - Interfaces: Demonstrated with IMovable, Car, and Bicycle classes.
 
+To run the app, run this command: <code>dotnet run</code>
