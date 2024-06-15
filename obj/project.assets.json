@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\DCIT318-ASSIGNMENT\\DCIT318-ASSIGNMENT.csproj",
+      "projectUniqueName": "C:\\Users\\user\\DCIT318-ASSIGNMENT-10945821\\DCIT318-ASSIGNMENT.csproj",
       "projectName": "DCIT318-ASSIGNMENT",
-      "projectPath": "C:\\Users\\user\\DCIT318-ASSIGNMENT\\DCIT318-ASSIGNMENT.csproj",
+      "projectPath": "C:\\Users\\user\\DCIT318-ASSIGNMENT-10945821\\DCIT318-ASSIGNMENT.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\DCIT318-ASSIGNMENT\\obj\\",
+      "outputPath": "C:\\Users\\user\\DCIT318-ASSIGNMENT-10945821\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
