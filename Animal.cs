@@ -1,4 +1,5 @@
 using System;
+//class Animal inherits from Object
 
 public class Animal
 {
