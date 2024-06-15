@@ -8,3 +8,5 @@ This repository contains a C# console application that demonstrates various aspe
 - Interfaces: Demonstrated with IMovable, Car, and Bicycle classes.
 
 To run the app, run this command: <code>dotnet run</code>
+
+Repo link: https://github.com/Aristocratjnr/DCIT318-ASSIGNMENT-ll-10945821.git
