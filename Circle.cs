@@ -1,5 +1,7 @@
 using System;
 
+//class Circle inherits from Shape
+
 public class Circle : Shape
 {
     public double Radius { get; set; }
