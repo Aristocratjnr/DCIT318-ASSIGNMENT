@@ -1,5 +1,7 @@
 ﻿using System;
 
+//class Animal
+
 class Program
 {
     static void Main(string[] args)
