@@ -1,5 +1,7 @@
 using System;
 
+//class Rectangle inherits from Shape
+
 public class Rectangle : Shape
 {
     public double Width { get; set; }
